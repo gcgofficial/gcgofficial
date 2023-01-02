@@ -139,7 +139,7 @@ def Menu():
     ╚═╝╩╚═╚═╝╩ ╩ ╩ ╚═╝  ╚═╝╚═╝╩ ╩
 \x1b[1;97m     SCRIPT TERMUX SSH BY GCG OFFICIAL
               YT GCG OFFICIAL 
-              AUTHOR : AZS VPN
+              AUTHOR : AZS VPN versi 1.0
 \x1b[1;91m+-----------------------------------+
 \x1b[1;96m  {\x1b[1;92m01\x1b[1;96m} \x1b[1;97mCREATE SSL/TLS MONTHLY
 \x1b[1;96m  {\x1b[1;92m02\x1b[1;96m} \x1b[1;97mCREATE SSH MONTHLY
